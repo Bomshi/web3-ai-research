@@ -21,3 +21,4 @@ This repository tracks observations and learning while exploring emerging decent
 This repository documents my learning and observations while exploring emerging decentralized technologies and AI infrastructure networks.
 
 The goal is to understand how early-stage protocols work and follow their development during testnet and devnet phases.
+Shelby ,  decentralized storage infrastructure for AI data and high performance reads.
